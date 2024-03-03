@@ -1,11 +1,11 @@
 
-# Deep Learning Resources
+# Deep Learning Resources 
 
 <div align="center">
 
-**Deep Learning Resources for beginners (Still in development!)**
+**Deep Learning Resources for beginners 📚 (Still in development!)**
 
-<img src="DeepLearningDALLE3.png" />
+<img src="DeepLearningDALLE3.png" height="250" width="400"/>
 
 </div>
 
@@ -29,11 +29,6 @@ You can download the repository directly from github or clone it with git if you
 just be sure of installing the needed dependencies for each notebook (Read them before!).
 
 Once you have the resources you can start reading the pdf (*DeepLearningPart1.pdf*) and as you complete each section you go to the respective notebook, (each notebook is appropiately named according to the topic it covers) where you will find practical exercises about the topic (most of them come with the solutions already, if you want to try them yourself you can erase the code or alternatively copy the questions and do them yourself).
-
-
-
-
-
 
 
 ## Acknowledgements
