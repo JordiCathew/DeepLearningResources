@@ -5,7 +5,7 @@
 
 **Deep Learning Resources for beginners (Still in development!)**
 
-<img src="https://static.scarf.sh/a.pngx-pxid=cf317fe7-2188-4721-bc01-124bb5d5dbb2" />
+<img src="DeepLearningDALLE3.png" />
 
 </div>
 
