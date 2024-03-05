@@ -19,8 +19,9 @@ Deep Learning and related tools, this repository is continuously updated, as I l
 - [ ] - Go through at least one machine learning course to understand the fundamentals. Remember that Deep Learning is a sub-field inside Machine Learning.
 - [ ] - Go through the video until you have a deep understanding of the basics of neural networks: [The spelled-out intro to neural networks and backpropagation - Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
-Watch this tutorial: 
+Watch this tutorial (click on the thumbnail): 
 
+[![Video tutorial](https://img.youtube.com/vi/ITB9TzJcXUk/0.jpg)](https://www.youtube.com/watch?v=ITB9TzJcXUk)
 
 
 ## Getting started
